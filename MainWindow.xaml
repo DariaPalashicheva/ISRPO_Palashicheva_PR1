@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ISRPO_Palashicheva_PR1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Палашичева ИСРПО ПР1 Вариант 11" Height="450" Width="800">
     <Grid>
         <TextBox x:Name ="TB1" HorizontalAlignment="Left" Height="23" Margin="147,105,0,0" Text="Кликни 2 раза" VerticalAlignment="Top" Width="120" MouseDoubleClick="TB1_MouseDown1"/>
         <TextBox x:Name ="TB2" HorizontalAlignment="Left" Height="23" Margin="303,105,0,0" Text="Кликни 2 раза" VerticalAlignment="Top" Width="120" MouseDoubleClick="TB2_MouseDown2"/>
